@@ -2,3 +2,11 @@
 	path = website
 	url = git@github.com:Ryu204/rise-of-monsters-website.git
 	branch = main
+[submodule "simulation"]
+	path = simulation
+	url = git@github.com:Ryu204/rise-of-monsters-simulation.git
+	branch = main
+[submodule "game-runner"]
+	path = game-runner
+	url = git@github.com:Ryu204/rise-of-monsters-game-runner.git
+	branch = main
