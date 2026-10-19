@@ -1,0 +1,4 @@
+[submodule "website"]
+	path = website
+	url = git@github.com:Ryu204/rise-of-monsters-website.git
+	branch = main
