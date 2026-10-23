@@ -10,3 +10,7 @@
 	path = game-runner
 	url = git@github.com:Ryu204/rise-of-monsters-game-runner.git
 	branch = main
+[submodule "server"]
+	path = server
+	url = git@github.com:Ryu204/rise-of-monsters-server.git
+	branch = main
